@@ -1,0 +1,27 @@
+{
+  "name": "sushi",
+  "version": "1.0.0",
+  "description": "the sushi menu for our new restuarant.",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eschapp/sushi.git"
+  },
+  "keywords": [
+    "sushi",
+    "menu",
+    "restuarant",
+    "food",
+    "tasty",
+    "yummy"
+  ],
+  "author": "eschapp",
+  "license": "(MIT)",
+  "bugs": {
+    "url": "https://github.com/eschapp/sushi/issues"
+  },
+  "homepage": "https://github.com/eschapp/sushi#readme"
+}
